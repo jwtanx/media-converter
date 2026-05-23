@@ -4,11 +4,13 @@ Desktop app for downloading YouTube videos and audio, plus converting local vide
 
 ## Download (Windows)
 
-**[Releases](https://github.com/jwtanx/media-converter/releases)** — get `YouTubeDownloader.exe` from the latest release. No Python install required.
+**v1.0.0** — [Download YouTubeDownloader.exe](https://github.com/jwtanx/media-converter/raw/v1.0.0/releases/v1.0.0/YouTubeDownloader.exe) (~18 MB)
 
-| Release | Notes |
-|---------|--------|
-| [v1.0.0](https://github.com/jwtanx/media-converter/releases/tag/v1.0.0) | First release — standalone Windows executable |
+Also on the [Releases](https://github.com/jwtanx/media-converter/releases/tag/v1.0.0) page. No Python install required.
+
+| Release | File |
+|---------|------|
+| v1.0.0 | `releases/v1.0.0/YouTubeDownloader.exe` |
 
 ### Requirements for the .exe
 
